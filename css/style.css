@@ -1,0 +1,18 @@
+.btn-nav {
+    padding: 5px 5px 7px 7px;
+    color: white;
+    border-radius: 50%;
+    background-color: #4468E2;
+    border-radius: 20px;
+}
+.btn-nav:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+.row-img .bg-text{
+    color: #fff;
+    height: 100px;
+    position: absolute;
+    align: center;
+   
+
+}
